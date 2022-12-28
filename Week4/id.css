@@ -3,5 +3,8 @@ image{
     width: auto;
     height: 600px ;
     background-size: cover;
-    background-position: center;
+}
+.img-of-group {
+    width: 800px;
+
 }
